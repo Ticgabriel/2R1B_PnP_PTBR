@@ -19,4 +19,4 @@ Os três PDFs foram renderizados e inspecionados. O gerador interrompe se algum 
 
 O layout de impressão usa fundo claro para economizar tinta e texto escuro para melhorar a leitura. Os PDFs de teste do LaTeX da fase 2 continuam sendo apenas frentes; use o novo gerador para impressão duplex.
 
-Esta etapa disponibiliza o pacote para download. A publicação dos binários no próprio GitHub permanece para a fase 4.
+Os PDFs e o ZIP estão publicados em [`impressao/`](impressao/). Você pode baixá-los diretamente, sem executar o gerador. No visualizador de cada arquivo no GitHub, use Download raw file.

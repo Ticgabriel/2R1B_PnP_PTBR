@@ -9,11 +9,20 @@ Adaptação comunitária do projeto [drFerg/2R1B_PnP](https://github.com/drFerg/
 
 3. **PDFs duplex preparados e conferidos:** gerador em [`pt-BR/gerar_impressao.py`](pt-BR/gerar_impressao.py), [instruções e verificação](pt-BR/IMPRIMIR.md). Kit de 11 jogadores em 2 folhas e conjunto completo em 11 folhas. O novo layout usa fundo claro, versos uniformes e marcas de corte.
 
-## Próxima etapa
+## PDFs prontos para imprimir
 
-4. Publicar os PDFs e os demais arquivos binários no GitHub em uma etapa separada.
+Os arquivos estão em [`pt-BR/impressao/`](pt-BR/impressao/):
 
-**O gerador de impressão duplex está pronto. Os binários ainda não estão no GitHub.** Os sete arquivos binários originais também ainda não foram copiados; a imagem do README original não está disponível neste repositório.
+- [Kit de 11 jogadores - 2 folhas duplex](pt-BR/impressao/Kit_11_Jogadores_PTBR_R02.pdf)
+- [80 cartas - 11 folhas duplex](pt-BR/impressao/Cartas_Completas_PTBR_R02.pdf)
+- [Guia de impressão](pt-BR/impressao/Guia_Impressao_PTBR_R02.pdf)
+- [Pacote completo ZIP](pt-BR/impressao/Two_Rooms_PTBR_Impressao_R02.zip)
+
+No visualizador do GitHub, use **Download raw file** para salvar o PDF. Para jogar com até 12 pessoas, imprima o kit de 11 inteiro e também as páginas 1 e 2 do conjunto completo para obter cartas comuns extras. Separe a composição antes de distribuir: para 12 pessoas, Presidente + 5 azuis comuns + Bombista + 5 vermelhas comuns; para 11, Presidente + 4 azuis comuns + Bombista + 4 vermelhas comuns + Apostador.
+
+**Cartas: A4 paisagem, escala 100%, duplex com virada na borda curta.** Teste as páginas 1 e 2 primeiro. O guia é A4 retrato e deve ser impresso separadamente.
+
+Os sete binários da edição original em inglês continuam pendentes de cópia. Os PDFs PT-BR estão publicados e prontos para download.
 
 ## Origem e créditos
 

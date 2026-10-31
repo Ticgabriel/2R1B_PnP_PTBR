@@ -11,7 +11,7 @@ cd pt-BR
 bash compile_all
 ```
 
-O script interrompe ao encontrar erro, deixa os logs em `temp/` e gera cinco PDFs em `pdf/`. Esta fase gera **somente as frentes**, sem imposição duplex nem marcas de corte. Não use estes arquivos como pacote final de impressão. Os versos e o kit para 11 jogadores serão conferidos na fase 3.
+O script interrompe ao encontrar erro, deixa os logs em `temp/` e gera cinco PDFs em `pdf/`. Esta fase gera **somente as frentes**, sem imposição duplex nem marcas de corte. Não use estes arquivos como pacote final de impressão. Os PDFs duplex com versos e marcas de corte já estão disponíveis em [`impressao/`](impressao/). Veja [IMPRIMIR.md](IMPRIMIR.md).
 
 A fonte Helvetica substitui Roboto para facilitar a compilação; as letras A e V identificam as equipes além das cores. O tamanho das cartas continua em 6 × 9 cm, em páginas A4 paisagem.
 
