@@ -1,0 +1,133 @@
+{
+  "repository": "https://github.com/drFerg/2R1B_PnP",
+  "branch": "master",
+  "source_tree_sha": "131be78a5f46beab52e953db2517ef0529987616",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha": "46ff26d2a5d652c3ccac3646895ca06145f5517d",
+      "size": 2222,
+      "mode": "100644",
+      "copied_in_phase_1": true
+    },
+    {
+      "path": "README.MD",
+      "sha": "3238650f56f4fbf91fd3a8c05e8f864096719c19",
+      "size": 1036,
+      "mode": "100644",
+      "copied_in_phase_1": true
+    },
+    {
+      "path": "compile_all",
+      "sha": "8352a871b0d8c774d6083e7cfdfbd89305c17d9c",
+      "size": 892,
+      "mode": "100755",
+      "copied_in_phase_1": true
+    },
+    {
+      "path": "img/cardbackpanel.pdf",
+      "sha": "2787c5ef9e953f2169e2a9a3c5cf83e1619315fd",
+      "size": 1877810,
+      "mode": "100755",
+      "copied_in_phase_1": false
+    },
+    {
+      "path": "img/example_cards.png",
+      "sha": "be315bb94ab8372aaeeba617fd0d898935855ec2",
+      "size": 539921,
+      "mode": "100644",
+      "copied_in_phase_1": false
+    },
+    {
+      "path": "include/cardColours.tex",
+      "sha": "1eb3c61cc0c207918e24d217c34e54c1113b2b0c",
+      "size": 679,
+      "mode": "100644",
+      "copied_in_phase_1": true
+    },
+    {
+      "path": "include/cardLibs.tex",
+      "sha": "8c29903adb4d6233fd75eacb6081eb47d2105b7f",
+      "size": 205,
+      "mode": "100644",
+      "copied_in_phase_1": true
+    },
+    {
+      "path": "include/cardStyles.tex",
+      "sha": "e1e04bbfc86adffd395ad60ecb66690239397c95",
+      "size": 5463,
+      "mode": "100644",
+      "copied_in_phase_1": true
+    },
+    {
+      "path": "pdf/1_team_cards.pdf",
+      "sha": "8208f731cbbe23d34e7b191ec440f9242eae884a",
+      "size": 45634,
+      "mode": "100644",
+      "copied_in_phase_1": false
+    },
+    {
+      "path": "pdf/2_core_role_cards.pdf",
+      "sha": "17eba1d6955e8a8e8caa5c4c99070f175d877ea3",
+      "size": 55113,
+      "mode": "100644",
+      "copied_in_phase_1": false
+    },
+    {
+      "path": "pdf/3_neutral_solo.pdf",
+      "sha": "a14361ad6b685606cf8e7ce42f2f4ee94dcc0d7b",
+      "size": 53610,
+      "mode": "100644",
+      "copied_in_phase_1": false
+    },
+    {
+      "path": "pdf/4_neutral_groups.pdf",
+      "sha": "6e5f77bfe159b53e6c80ddd6208058196c3f12cb",
+      "size": 66589,
+      "mode": "100644",
+      "copied_in_phase_1": false
+    },
+    {
+      "path": "pdf/5_team_characters.pdf",
+      "sha": "f727fc376a348a40c37b7f2ea7a373bda3e77801",
+      "size": 63784,
+      "mode": "100644",
+      "copied_in_phase_1": false
+    },
+    {
+      "path": "src/1_team_cards.tex",
+      "sha": "c2a77f5bb6e27f6b8fe7a0b563eb0c91cb3ee5ef",
+      "size": 1583,
+      "mode": "100644",
+      "copied_in_phase_1": true
+    },
+    {
+      "path": "src/2_core_role_cards.tex",
+      "sha": "9592fd020d39a2944ce9e4aa02f1f1642ffce4c4",
+      "size": 2274,
+      "mode": "100644",
+      "copied_in_phase_1": true
+    },
+    {
+      "path": "src/3_neutral_solo.tex",
+      "sha": "e97b68c3708e778c40c913fbf0eb49c363c3042a",
+      "size": 2458,
+      "mode": "100644",
+      "copied_in_phase_1": true
+    },
+    {
+      "path": "src/4_neutral_groups.tex",
+      "sha": "c0d61106ed98f78f97704d12f34f8405bb390b7e",
+      "size": 4020,
+      "mode": "100644",
+      "copied_in_phase_1": true
+    },
+    {
+      "path": "src/5_team_characters.tex",
+      "sha": "87924e6ac8f769266e38dae7b411e321299d166e",
+      "size": 7626,
+      "mode": "100644",
+      "copied_in_phase_1": true
+    }
+  ]
+}
