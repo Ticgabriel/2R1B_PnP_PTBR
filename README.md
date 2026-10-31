@@ -9,6 +9,16 @@ Adaptação comunitária do projeto [drFerg/2R1B_PnP](https://github.com/drFerg/
 
 3. **PDFs duplex preparados e conferidos:** gerador em [`pt-BR/gerar_impressao.py`](pt-BR/gerar_impressao.py), [instruções e verificação](pt-BR/IMPRIMIR.md). Kit de 11 jogadores em 2 folhas e conjunto completo em 11 folhas. O novo layout usa fundo claro, versos uniformes e marcas de corte.
 
+## Kit para exatamente 14 jogadores
+
+- [Pacote completo ZIP](pt-BR/impressao/kit_14/Pacote_14_Jogadores_PTBR.zip)
+- [Cartas para imprimir inteiro - 2 folhas duplex](pt-BR/impressao/kit_14/IMPRIMIR_Cartas_14_Jogadores_PTBR.pdf)
+- [Manual resumido do modo básico - 1 página](pt-BR/impressao/kit_14/MANUAL_Basico_14_Jogadores_PTBR.pdf)
+
+Use todas as 14 cartas: Presidente + 6 azuis comuns + Bombista + 6 vermelhas comuns. Não há Apostador. Imprima as cartas em A4 paisagem, 100%, duplex, virada na borda curta; teste uma folha primeiro. O manual deve ser impresso separadamente em A4 retrato.
+
+Os PDFs foram renderizados e conferidos, as contagens dos papéis e as coordenadas dos versos foram verificadas. As regras básicas foram conferidas no [livro de regras](https://www.playkaboom.com/TwoRooms_Rulebook_v3.pdf). O manual é um resumo independente do modo básico, não uma tradução integral do manual oficial. Para regenerar: `python3 pt-BR/gerar_kit_14.py` (requer reportlab).
+
 ## Kit exato para 6 a 12 jogadores
 
 - [Baixar o pacote ZIP](pt-BR/impressao/kit_ate_12/Pacote_Exato_Ate_12_Jogadores_PTBR.zip)

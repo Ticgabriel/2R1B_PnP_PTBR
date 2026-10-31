@@ -1,0 +1,7 @@
+KIT PARA EXATAMENTE 14 JOGADORES
+
+Imprima IMPRIMIR_Cartas_14_Jogadores_PTBR.pdf inteiro: 4 páginas = 2 folhas duplex.
+A4 paisagem, 100%, borda curta. Teste páginas 1 e 2 primeiro.
+14 cartas: Presidente + 6 azuis comuns + Bombista + 6 vermelhas comuns. Sem Apostador.
+O manual é A4 retrato; sua impressão é separada e opcional.
+Modo básico: 3, 2 e 1 minutos; cada sala envia 2, 1 e 1 reféns, respectivamente.
