@@ -9,7 +9,19 @@ Adaptação comunitária do projeto [drFerg/2R1B_PnP](https://github.com/drFerg/
 
 3. **PDFs duplex preparados e conferidos:** gerador em [`pt-BR/gerar_impressao.py`](pt-BR/gerar_impressao.py), [instruções e verificação](pt-BR/IMPRIMIR.md). Kit de 11 jogadores em 2 folhas e conjunto completo em 11 folhas. O novo layout usa fundo claro, versos uniformes e marcas de corte.
 
-## PDFs prontos para imprimir
+## Kit exato para 6 a 12 jogadores
+
+- [Baixar o pacote ZIP](pt-BR/impressao/kit_ate_12/Pacote_Exato_Ate_12_Jogadores_PTBR.zip)
+- [PDF de cartas para imprimir inteiro](pt-BR/impressao/kit_ate_12/IMPRIMIR_Cartas_Ate_12_PTBR.pdf)
+- [Guia e tabela de composição por quantidade de jogadores](pt-BR/impressao/kit_ate_12/LEIA_PRIMEIRO_Kit_Ate_12.pdf)
+
+**Imprima somente o PDF de cartas deste kit: 4 páginas = 2 folhas duplex.** A4 paisagem, escala 100%, virada na borda curta. Teste as páginas 1 e 2 primeiro. O guia é A4 retrato e sua impressão é opcional e separada.
+
+O kit contém 13 cartas físicas para permitir variar a quantidade de jogadores. Para 12 pessoas, use Presidente + 5 azuis comuns + Bombista + 5 vermelhas comuns e guarde o Apostador. Para as outras quantidades, siga a tabela do guia e guarde as cartas restantes antes de embaralhar.
+
+Este kit substitui a combinação do kit antigo de 11 jogadores com páginas extras do conjunto completo.
+
+## Outros PDFs prontos para imprimir
 
 Os arquivos estão em [`pt-BR/impressao/`](pt-BR/impressao/):
 
@@ -18,7 +30,7 @@ Os arquivos estão em [`pt-BR/impressao/`](pt-BR/impressao/):
 - [Guia de impressão](pt-BR/impressao/Guia_Impressao_PTBR_R02.pdf)
 - [Pacote completo ZIP](pt-BR/impressao/Two_Rooms_PTBR_Impressao_R02.zip)
 
-No visualizador do GitHub, use **Download raw file** para salvar o PDF. Para jogar com até 12 pessoas, imprima o kit de 11 inteiro e também as páginas 1 e 2 do conjunto completo para obter cartas comuns extras. Separe a composição antes de distribuir: para 12 pessoas, Presidente + 5 azuis comuns + Bombista + 5 vermelhas comuns; para 11, Presidente + 4 azuis comuns + Bombista + 4 vermelhas comuns + Apostador.
+No visualizador do GitHub, use **Download raw file** para salvar o PDF. Para até 12 pessoas, prefira o kit exato acima, que já reúne as cartas necessárias em duas folhas.
 
 **Cartas: A4 paisagem, escala 100%, duplex com virada na borda curta.** Teste as páginas 1 e 2 primeiro. O guia é A4 retrato e deve ser impresso separadamente.
 

@@ -1,0 +1,6 @@
+IMPRIMA: IMPRIMIR_Cartas_Ate_12_PTBR.pdf inteiro (4 páginas = 2 folhas duplex).
+A4 paisagem, 100%, virada na borda curta. Teste primeiro páginas 1 e 2.
+O PDF tem 13 cartas físicas para variar entre 6 e 12 jogadores. Não use todas de uma vez.
+12 jogadores: Presidente + 5 azuis comuns + Bombista + 5 vermelhas comuns; guarde Apostador.
+11 jogadores: Presidente + 4 azuis comuns + Bombista + 4 vermelhas comuns + Apostador.
+Veja a tabela para 6-12 no LEIA_PRIMEIRO_Kit_Ate_12.pdf (guia A4 retrato; impressão opcional separada).
