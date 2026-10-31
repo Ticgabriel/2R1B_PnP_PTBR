@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")"
+if [[ $# -gt 0 ]]; then
+  echo "Esta fase gera apenas frentes; execute sem argumentos." >&2
+  exit 2
+fi
+command -v pdflatex >/dev/null || { echo "Instale o pdfLaTeX e os pacotes geometry, tikz, fontenc e helvet." >&2; exit 1; }
+mkdir -p temp pdf
+for file in src/*.tex; do
+  name="$(basename "$file" .tex)"
+  echo "Compilando $name..."
+  if ! pdflatex -halt-on-error -interaction=nonstopmode -output-directory=temp "$file" >"temp/$name.console.log" 2>&1; then
+    echo "Falha: consulte temp/$name.console.log" >&2
+    exit 1
+  fi
+  cp "temp/$name.pdf" "pdf/$name.pdf"
+done
+echo "Cinco conjuntos compilados em pdf/. Apenas frentes; versos pendentes da fase 3."

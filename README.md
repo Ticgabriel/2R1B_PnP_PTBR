@@ -1,23 +1,21 @@
 # Two Rooms and a Boom — PT-BR
 
-Adaptação comunitária em português brasileiro do projeto [drFerg/2R1B_PnP](https://github.com/drFerg/2R1B_PnP).
+Adaptação comunitária do projeto [drFerg/2R1B_PnP](https://github.com/drFerg/2R1B_PnP).
 
-## Fase 1 — arquivos-fonte originais
+## Etapas concluídas
 
-Os 11 arquivos de texto originais estão em [`original/`](original/), sem alterações de conteúdo. O README original preserva os créditos e referências do autor. O script `compile_all` mantém a permissão de execução.
+1. **Arquivos-fonte originais:** 11 arquivos preservados em [`original/`](original/), com hashes registrados em [`ORIGEM.json`](ORIGEM.json).
+2. **Tradução PT-BR:** 80 cartas em [`pt-BR/src/`](pt-BR/src/), glossário, inventário dos nomes e script de compilação. Os cinco conjuntos foram compilados e as 11 páginas de frentes foram inspecionadas. Veja as [instruções](pt-BR/README.md) e o [registro de verificação](pt-BR/VERIFICACAO.md).
 
-A origem foi registrada pelo hash da árvore Git `131be78a5f46beab52e953db2517ef0529987616`. O inventário completo, com caminhos e hashes originais, está em [`ORIGEM.json`](ORIGEM.json).
+## Próximas etapas
 
-Os 7 arquivos binários originais (PDFs e imagem) ainda não foram copiados nesta fase. Por isso, a imagem do README original ainda não está disponível e este marco não declara o projeto completo nem a compilação validada.
+3. Preparar e conferir os versos, as marcas de corte e a impressão duplex, incluindo o kit para 11 jogadores.
+4. Publicar os PDFs e os demais arquivos binários em uma etapa separada.
 
-## Próximas fases
+**Os arquivos desta fase geram apenas as frentes. O pacote final de impressão ainda está pendente.** Os sete arquivos binários originais também ainda não foram copiados; a imagem do README original não está disponível neste repositório.
 
-- Acrescentar a tradução PT-BR em uma pasta separada, preservando os originais.
-- Conferir a compilação e os PDFs para impressão.
-- Publicar os arquivos binários separadamente e verificar a entrega.
+## Origem e créditos
 
-## Créditos e licença
+Árvore-fonte: `131be78a5f46beab52e953db2517ef0529987616` de [drFerg/2R1B_PnP](https://github.com/drFerg/2R1B_PnP). Créditos de design e referências no [README original](original/README.MD).
 
-Projeto-fonte: [drFerg/2R1B_PnP](https://github.com/drFerg/2R1B_PnP). Créditos de design e referências: [`original/README.MD`](original/README.MD).
-
-Não há arquivo de licença explícito na árvore original consultada. Esta cópia preserva os créditos existentes e não atribui uma licença nova aos materiais de terceiros.
+Não há arquivo de licença explícito na árvore original consultada. Esta adaptação preserva os créditos e não atribui uma licença nova aos materiais de terceiros.

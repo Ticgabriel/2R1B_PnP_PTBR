@@ -1,0 +1,482 @@
+[
+  {
+    "file": "1_team_cards.tex",
+    "team": "red",
+    "original": "Red team",
+    "pt_BR": "Equipe Vermelha"
+  },
+  {
+    "file": "1_team_cards.tex",
+    "team": "blue",
+    "original": "Blue Team",
+    "pt_BR": "Equipe Azul"
+  },
+  {
+    "file": "1_team_cards.tex",
+    "team": "red",
+    "original": "Red team",
+    "pt_BR": "Equipe Vermelha"
+  },
+  {
+    "file": "1_team_cards.tex",
+    "team": "blue",
+    "original": "Blue Team",
+    "pt_BR": "Equipe Azul"
+  },
+  {
+    "file": "1_team_cards.tex",
+    "team": "red",
+    "original": "Red team",
+    "pt_BR": "Equipe Vermelha"
+  },
+  {
+    "file": "1_team_cards.tex",
+    "team": "blue",
+    "original": "Blue Team",
+    "pt_BR": "Equipe Azul"
+  },
+  {
+    "file": "1_team_cards.tex",
+    "team": "red",
+    "original": "Red team",
+    "pt_BR": "Equipe Vermelha"
+  },
+  {
+    "file": "1_team_cards.tex",
+    "team": "blue",
+    "original": "Blue Team",
+    "pt_BR": "Equipe Azul"
+  },
+  {
+    "file": "2_core_role_cards.tex",
+    "team": "red",
+    "original": "Bomber",
+    "pt_BR": "Bombista"
+  },
+  {
+    "file": "2_core_role_cards.tex",
+    "team": "blue",
+    "original": "President",
+    "pt_BR": "Presidente"
+  },
+  {
+    "file": "2_core_role_cards.tex",
+    "team": "red",
+    "original": "Engineer",
+    "pt_BR": "Engenheiro"
+  },
+  {
+    "file": "2_core_role_cards.tex",
+    "team": "blue",
+    "original": "Doctor",
+    "pt_BR": "Médico"
+  },
+  {
+    "file": "2_core_role_cards.tex",
+    "team": "red",
+    "original": "Martyr",
+    "pt_BR": "Mártir"
+  },
+  {
+    "file": "2_core_role_cards.tex",
+    "team": "blue",
+    "original": "Vice-President",
+    "pt_BR": "Vice-Presidente"
+  },
+  {
+    "file": "2_core_role_cards.tex",
+    "team": "red",
+    "original": "Tinkerer",
+    "pt_BR": "Inventor"
+  },
+  {
+    "file": "2_core_role_cards.tex",
+    "team": "blue",
+    "original": "Nurse",
+    "pt_BR": "Enfermeiro"
+  },
+  {
+    "file": "3_neutral_solo.tex",
+    "team": "grey",
+    "original": "Private Eye",
+    "pt_BR": "Detetive"
+  },
+  {
+    "file": "3_neutral_solo.tex",
+    "team": "grey",
+    "original": "Gambler",
+    "pt_BR": "Apostador"
+  },
+  {
+    "file": "3_neutral_solo.tex",
+    "team": "grey",
+    "original": "Hot Potato",
+    "pt_BR": "Batata Quente"
+  },
+  {
+    "file": "3_neutral_solo.tex",
+    "team": "grey",
+    "original": "Born Leader",
+    "pt_BR": "Líder Nato"
+  },
+  {
+    "file": "3_neutral_solo.tex",
+    "team": "grey",
+    "original": "Born Leader",
+    "pt_BR": "Líder Nato"
+  },
+  {
+    "file": "3_neutral_solo.tex",
+    "team": "grey",
+    "original": "Born Leader",
+    "pt_BR": "Líder Nato"
+  },
+  {
+    "file": "3_neutral_solo.tex",
+    "team": "grey",
+    "original": "Anarchist",
+    "pt_BR": "Anarquista"
+  },
+  {
+    "file": "3_neutral_solo.tex",
+    "team": "grey",
+    "original": "Minion",
+    "pt_BR": "Lacaio"
+  },
+  {
+    "file": "3_neutral_solo.tex",
+    "team": "grey",
+    "original": "Telepath",
+    "pt_BR": "Telepata"
+  },
+  {
+    "file": "3_neutral_solo.tex",
+    "team": "purple",
+    "original": "Amnesiac",
+    "pt_BR": "Amnésico"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Ahab",
+    "pt_BR": "Ahab"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Moby",
+    "pt_BR": "Moby"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Wife",
+    "pt_BR": "Esposa"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Mistress",
+    "pt_BR": "Amante"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Frotteur",
+    "pt_BR": "Tocador"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Prude",
+    "pt_BR": "Puritano"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Juliet",
+    "pt_BR": "Julieta"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Romeo",
+    "pt_BR": "Romeu"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Sniper",
+    "pt_BR": "Atirador"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Target",
+    "pt_BR": "Alvo"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Decoy",
+    "pt_BR": "Isca"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Rock",
+    "pt_BR": "Pedra"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Paper",
+    "pt_BR": "Papel"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Scissors",
+    "pt_BR": "Tesoura"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Butler",
+    "pt_BR": "Mordomo"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Maid",
+    "pt_BR": "Empregada"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Rival",
+    "pt_BR": "Rival"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Survivor",
+    "pt_BR": "Sobrevivente"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Intern",
+    "pt_BR": "Estagiário"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Anarchist",
+    "pt_BR": "Anarquista"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Minion",
+    "pt_BR": "Lacaio"
+  },
+  {
+    "file": "4_neutral_groups.tex",
+    "team": "grey",
+    "original": "Victim",
+    "pt_BR": "Vítima"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Shy Guy",
+    "pt_BR": "Tímido"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Shy Guy",
+    "pt_BR": "Tímido"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Spy",
+    "pt_BR": "Espião"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Spy",
+    "pt_BR": "Espião"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Coy Boy",
+    "pt_BR": "Reservado"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Coy Boy",
+    "pt_BR": "Reservado"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Negotiator",
+    "pt_BR": "Negociador"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Negotiator",
+    "pt_BR": "Negociador"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Devil",
+    "pt_BR": "Diabo"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Devil",
+    "pt_BR": "Diabo"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Angel",
+    "pt_BR": "Anjo"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Angel",
+    "pt_BR": "Anjo"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Blind",
+    "pt_BR": "Cego"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Blind",
+    "pt_BR": "Cego"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Mime",
+    "pt_BR": "Mímico"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Mime",
+    "pt_BR": "Mímico"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Trader",
+    "pt_BR": "Comerciante"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Trader",
+    "pt_BR": "Comerciante"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Voyeur",
+    "pt_BR": "Observador"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Voyeur",
+    "pt_BR": "Observador"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Interrogator",
+    "pt_BR": "Interrogador"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Interrogator",
+    "pt_BR": "Interrogador"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Ambassador",
+    "pt_BR": "Embaixador"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Ambassador",
+    "pt_BR": "Embaixador"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Agent",
+    "pt_BR": "Agente"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Agent",
+    "pt_BR": "Agente"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Bouncer",
+    "pt_BR": "Segurança"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Bouncer",
+    "pt_BR": "Segurança"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Conman",
+    "pt_BR": "Vigarista"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Conman",
+    "pt_BR": "Vigarista"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "red",
+    "original": "Red Fist",
+    "pt_BR": "Punho Vermelho"
+  },
+  {
+    "file": "5_team_characters.tex",
+    "team": "blue",
+    "original": "Blue Drone",
+    "pt_BR": "Drone Azul"
+  }
+]
